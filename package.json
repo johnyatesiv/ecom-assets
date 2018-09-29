@@ -1,0 +1,25 @@
+{
+  "name": "ecom-assets",
+  "version": "0.0.0",
+  "description": "A collection of Ecommerce assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/acceptance"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyatesiv/ecom-assets.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "ecom",
+    "shop",
+    "cart"
+  ],
+  "author": "John Yates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyatesiv/ecom-assets/issues"
+  },
+  "homepage": "https://github.com/johnyatesiv/ecom-assets#readme"
+}
