@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/johnyatesiv/ecom-assets#readme",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "react": "^16.5.2"
   }
 }
