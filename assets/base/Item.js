@@ -16,4 +16,11 @@ export default class Item {
         return (this.UnitCost*this.Quantity);
     }
 
+    incrementQuantity() {
+        this.Quantity++;
+    }
+
+    decrementQuantity() {
+        this.Quantity--;
+    }
 }
