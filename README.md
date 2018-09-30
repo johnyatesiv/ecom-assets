@@ -14,7 +14,7 @@ this.items;
 ### would be distinct from the Ecommerce property
 
 ```
-this.Items
+this.Items;
 ```
 
 ### Similarly, classes and IDs on the various rendered components should be camel-cased and prefixed with
